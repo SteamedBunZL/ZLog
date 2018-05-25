@@ -1,0 +1,2 @@
+# ZLog
+Log for Android
